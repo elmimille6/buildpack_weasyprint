@@ -1,5 +1,5 @@
 #!/bin/sh
 
-echo "-----> Installing WeasyPrint"
+echo "-----> Installing wkhtmltopdf"
 apt-get install wkhtmltopdf
 exit 0
